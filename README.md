@@ -11,6 +11,3 @@
 ## Запуск:
 ```bash
 python3 password_gen.py
-
-Автор:
-	sk1ppa
